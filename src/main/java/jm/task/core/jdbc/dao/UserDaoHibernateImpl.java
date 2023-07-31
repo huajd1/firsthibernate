@@ -1,4 +1,3 @@
-}
 
 package jm.task.core.jdbc.dao;
 
@@ -12,8 +11,7 @@ import java.util.List;
 
 public class UserDaoHibernateImpl implements UserDao {
 
-clojure
-Copy
+
 private final SessionFactory sessionFactory;
 
 public UserDaoHibernateImpl() {
